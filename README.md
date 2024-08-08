@@ -14,6 +14,4 @@ The **Diminishing Returns Calculator (DRC)** helps you identify the most effecti
 ### Roadmap
 - **Deployment-Ready Versions:** Fully built standalone portable and installer-based Electron versions, ready for deployment.
 
----
 
-This version is more concise and polished, with improved phrasing and formatting for clarity and readability.
