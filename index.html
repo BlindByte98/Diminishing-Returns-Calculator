@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diminishing Returns Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Diminishing Returns Calculator</h1>
+        <form id="data-form">
+            <label for="x-axis-name">X-axis Name:</label>
+            <input type="text" id="x-axis-name" required>
+
+            <label for="y-axis-name">Y-axis Name:</label>
+            <input type="text" id="y-axis-name" required>
+
+            <label for="x-values">X values (comma-separated):</label>
+            <input type="text" id="x-values" required>
+
+            <label for="y-values">Y values (comma-separated):</label>
+            <input type="text" id="y-values" required>
+
+            <button type="submit">Calculate</button>
+        </form>
+
+        <canvas id="myChart" width="600" height="400"></canvas>
+        <div id="result"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
