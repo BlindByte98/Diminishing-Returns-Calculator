@@ -3,6 +3,8 @@
 ### Overview
 The **Diminishing Returns Calculator (DRC)** helps you identify the most effective point on a graph before diminishing returns take effect.
 
+### Visit Hosted Web Version [Here](https://blindbyte98.github.io/Diminishing-Returns-Calculator/)
+
 ![Screenshot 2024-08-08 095654](https://github.com/user-attachments/assets/0a41baf3-dae5-4c3c-a1a2-47f6ef3ce32b)
 
 ### Key Features
